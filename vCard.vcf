@@ -1,0 +1,7 @@
+BEGIN:VCARD
+N:Nedeljkovi?;Nemanja;;;
+EMAIL;INTERNET:nemanjan00@teknik.io
+TEL;CELL:+381648146103
+KEY:https://raw.githubusercontent.com/nemanjan00/pubkey/master/pub.gpg
+KEY:data:application/x-pgp-fingerprint,0D91B410F969C74A
+END:VCARD
